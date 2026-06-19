@@ -5,7 +5,7 @@ Developed an interactive Power BI dashboard to analyze retail sales performance,
 
 ## Dashboard Preview
 
-(Retail Sales & Customer Analytics Dashboard.png)
+![Dashboard Screenshot](Retail%20Sales%20%26%20Customer%20Analytics%20Dashboard.png)
 
 ## Tools Used
 - Power BI
