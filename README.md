@@ -3,6 +3,10 @@
 ## Project Overview
 Developed an interactive Power BI dashboard to analyze retail sales performance, customer purchasing behavior, and key business metrics.
 
+## Dashboard Preview
+
+![Dashboard Screenshot](Retail Sales & Customer Analytics Dashboard.png)
+
 ## Tools Used
 - Power BI
 - Data Cleaning
