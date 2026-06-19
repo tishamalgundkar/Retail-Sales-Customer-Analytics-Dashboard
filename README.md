@@ -9,15 +9,20 @@ Developed an interactive Power BI dashboard to analyze retail sales performance,
 
 ## Tools Used
 - Power BI
-- Data Cleaning
 - Data Visualization
 - Business Analytics
 
 ## Key KPIs
-- Total Sales
+- Total Revenue
 - Total Orders
 - Total Customers
 - Average Order Value
+
+## Key Insights
+- Revenue exceeded £17M across the analyzed period.
+- Top-performing products contributed significantly to total sales.
+- Monthly revenue showed an overall upward trend.
+- Customer purchasing patterns helped identify high-value segments.
 
 ## Features
 - KPI Cards
